@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to onthepixel
 
-You can use the [editor on GitHub](https://github.com/onthepixel/doc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+온더픽셀은 디지털 이미지를 구성하는 픽셀 처리에 대한 전문 기술을 통해 고객사들에게 디지털 전환 솔루션을 제공합니다.
 
 ### Markdown
 
