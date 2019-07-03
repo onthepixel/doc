@@ -2,9 +2,9 @@
 
 온더픽셀은 디지털 이미지를 구성하는 픽셀 처리에 대한 전문 기술을 통해 고객사들에게 디지털 전환 솔루션을 제공합니다.
 
-### Markdown
+### 제품들
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
@@ -16,20 +16,19 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. 이미지 시점확인 솔루션
+2. 이미지 전자서명 솔루션
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 이미지 시점확인 솔루션
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/onthepixel/doc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+온더픽셀은 2019년 3건의 이미지 시점확인 처리 기술에 대한 특허를 출원하였습니다. 래스터 이미지에 대한 무결성과 진본성을 위해 이미지 자체적으로 이를 증명할 수 있는 기술입니다.
 
-### Support or Contact
+### 기술문의
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+이미지 시점확인 처리 기술과 솔루션의 문의는 [이메일](mailto://tangokorea@gmail.com) 으로 보내주십시오.
